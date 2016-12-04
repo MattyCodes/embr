@@ -7,4 +7,4 @@
   that are unpopular or uninteresting get filtered out automatically.
 </p>
 
-[Join Peribit Now](http://peribit.herokuapp.com/users/sign_up)
+[Join Peribit](http://peribit.herokuapp.com/users/sign_up)

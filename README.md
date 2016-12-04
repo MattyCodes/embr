@@ -6,3 +6,5 @@
   more time. As a result quality content stays alive longer, and posts
   that are unpopular or uninteresting get filtered out automatically.
 </p>
+
+[Join Peribit Now](http://peribit.herokuapp.com/users/sign_up)
